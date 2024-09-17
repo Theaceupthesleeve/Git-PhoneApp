@@ -2,50 +2,49 @@
     {
         "id": 1,
         "name":" Samsung S20",
-        "price": 15000,
-        "image": "image/1.png"
+        "price": 15000
     },
     {
         "id": 2,
         "name":" Xiomi note10",
-        "price": 15000,
-        "image": "image/2.png"
+        "price": 15000
+
     },
     {
         "id": 3,
         "name":" Samsung s22 Ultra",
-        "price": 15000,
-        "image": "image/3.png"
+        "price": 15000
+
     },
     {
         "id": 4,
         "name":" Tecno spark10",
-        "price": 15000,
-        "image": "image/4.png"
+        "price": 15000
+
     },
     {
         "id": 5,
         "name":" Iphone 14 Pro Max",
-        "price": 15000,
-        "image": "image/5.png"
+        "price": 15000
+
     },
     {
         "id": 6,
         "name":" Iphone 15 Pro Max",
-        "price": 15000,
-        "image": "image/6.png"
+        "price": 15000
+
     },
     {
         "id": 7,
         "name":" Samsung s24 Plus",
-        "price": 15000,
-        "image": "image/7.png"
+        "price": 15000
+
     },
     {
         "id": 8,
         "name":" ROG Phone 7 Ultra",
-        "price": 15000,
-        "image": "image/8.png"
+        "price": 15000
+
     }
 
 ]
