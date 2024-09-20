@@ -74,7 +74,7 @@ header{
     scale: 1.07;
     cursor: pointer;
 }
-/* cart */
+/* ///////////////////////////   cart ///////////////////////////////// */
 .cartTab{
     width: 400px;
     background-color: #353432;
@@ -111,6 +111,14 @@ body.showCart .container{
     /* font-style: oblique; */
     cursor: pointer;
 }
+
+
+
+
+
+
+
+
 .cartTab .close{
     background-color: #eee;
 }
